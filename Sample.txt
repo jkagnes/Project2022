@@ -4,5 +4,6 @@
 <body>
 <h1>Learn Git, Plan for Demo next week</h1>
 <h2> Learn Docker </h2>
+<p> Learn Kubernetes </p>
 </body>
 </head></html>
